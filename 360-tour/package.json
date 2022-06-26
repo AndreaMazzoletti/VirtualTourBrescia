@@ -1,0 +1,14 @@
+{
+  "name": "360-tour",
+  "version": "1.0.0",
+  "description": "Il tour di Brescia Musei",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrea Mazzoletti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
