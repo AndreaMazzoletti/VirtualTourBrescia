@@ -51,5 +51,7 @@ Per avviare il sito del Tour eseguire lo script
 
 Il sito vetrina sarà ora disponibile alla porta 8080, se si vuole accedere al virtual tour senza passare dalla vetrina questo sarà disponibile alla porta 3000.
 
+Il sito, la procedura di avvio e di installazione sono stati testati solo su Linux (Arch) e su browser Firefox
+
 Realizzato da Andrea Mazzoletti 
 
